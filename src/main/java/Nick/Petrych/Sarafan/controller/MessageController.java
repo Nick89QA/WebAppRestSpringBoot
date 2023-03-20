@@ -34,10 +34,12 @@ public class MessageController {
             put("text", "fifth message");
         }});
         add(new HashMap<String, String>() {{
-            put("id", "6");put("text", "sixth message");
+            put("id", "6");
+            put("text", "sixth message");
         }});
         add(new HashMap<String, String>() {{
-            put("id", "7");put("text", "seventh message");
+            put("id", "7");
+            put("text", "seventh message");
         }});
 
     }};
